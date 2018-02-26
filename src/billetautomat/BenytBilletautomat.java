@@ -1,7 +1,7 @@
 package billetautomat;
 
 
-
+// Collaborators:
 public class BenytBilletautomat
 {
 	public static void main(String[] arg)
